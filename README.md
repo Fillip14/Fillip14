@@ -1,4 +1,4 @@
-# Fillip Apolinário Nazario 🖐️
+# Fillip Nazario 🖐️
 
 🖥️ Explorando os primeiros passos na área de programação e atualmente dedicado aos estudos.
 
