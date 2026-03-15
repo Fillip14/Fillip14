@@ -7,7 +7,6 @@
 ⌨️ Focado, dedicado e persistente.
 
 </div>
-<br>
 
 ## ⚡ Destaques
 
@@ -21,13 +20,9 @@
 </div>
 <br>
 
-## 📬 Vamos conectar?
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anfillip)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fillip.apol@gmail.com)
-
-*"O melhor código é aquele que você entende amanhã."* 😄
+<div>
+  
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&logo=LinkedIn)](https://www.linkedin.com/in/anfillip)
+[![E-mail](https://img.shields.io/static/v1?label=fillip.apol@gmail.com&message=%20&logo=gmail)](mailto:fillip.apol@gmail.com)
 
 </div>
