@@ -25,15 +25,15 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 🎯 Focando agora
-
-> **Etapa 1** — solidificando os fundamentos de JavaScript/TypeScript e da web, com exercícios diários, testes e devlog. Rumo ao projeto central do portfólio: um **"reclame aqui"** full stack, reconstruído do zero na Etapa 4.
-
+ 
+> **Etapa 2 — Back-end: Node, Express, TypeScript e banco** (reiniciada 21/07 · 10 semanas · avaliação alvo 28/09). HTTP cru → Express → TypeScript strict → PostgreSQL → arquitetura em camadas → migrations/ORM → auth e segurança → deploy → Docker/CI, com testes desde a semana 1. Rumo ao projeto central do portfólio: um **"reclame aqui"** full stack, reconstruído do zero na Etapa 4.
+ 
 ## 🗺️ Roadmap — do 0 ao emprego
-
+ 
 ```text
 ✅  Etapa 0 · Rigor e Git
-🔄  Etapa 1 · JavaScript sólido + fundamentos web        ← estou aqui
-⬜  Etapa 2 · Back-end: Node, Express, TypeScript e banco
+✅  Etapa 1 · JavaScript sólido + fundamentos web
+🔄  Etapa 2 · Back-end: Node, Express, TypeScript, banco e mais   ← estou aqui
 ⬜  Etapa 3 · Front-end: React
 ⬜  Etapa 4 · Capstone: o "reclame aqui" concluído
 ⬜  Etapa 5 · Portfólio e busca por vaga
