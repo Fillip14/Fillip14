@@ -1,5 +1,4 @@
 <!-- Perfil GitHub — Fillip14/Fillip14/README.md -->
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:14b8a6&height=190&section=header&text=Fillip%20A%20Nazario&fontColor=e6edf3&fontSize=44&desc=Dev%20full%20stack%20em%20formação%20·%20do%200%20ao%20emprego&descAlignY=64&descSize=18" width="100%"/>
 </div>
@@ -25,16 +24,16 @@
 
 ## 🎯 Focando agora
 
-> **Etapa 2 — Back-end: Node, Express, TypeScript e banco** (retomada em 11/08 · avaliação alvo 28/09). Testes a fundo → arquitetura em camadas → migrations/ORM → auth e segurança → deploy → Docker/CI. Rumo ao projeto central do portfólio: um **"reporte-aqui"** full stack, reconstruído do zero na Etapa 4.
+> **Etapas 0 a 3 concluídas** — fundamentos, JavaScript, back-end (Node, Express, TypeScript, PostgreSQL) e front-end (React), com API e app publicados. Próxima parada: **Etapa 4**, o capstone — um "reporte-aqui" full stack reconstruído do zero, com auth, deploy e CI.
 
 ## 🗺️ Roadmap — do 0 ao emprego
 
 ```text
 ✅  Etapa 0 · Rigor e Git
 ✅  Etapa 1 · JavaScript sólido + fundamentos web
-🔄  Etapa 2 · Back-end: Node, Express, TypeScript, banco e mais   ← estou aqui
+✅  Etapa 2 · Back-end: Node, Express, TypeScript, banco e mais
 ✅  Etapa 3 · Front-end: React
-⬜  Etapa 4 · Capstone: o "reporte-aqui" concluído
+⬜  Etapa 4 · Capstone: o "reporte-aqui" concluído   ← próxima
 ⬜  Etapa 5 · Portfólio e busca por vaga
 ```
 
