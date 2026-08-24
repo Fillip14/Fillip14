@@ -1,52 +1,29 @@
 <!-- Perfil GitHub — Fillip14/Fillip14/README.md -->
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:14b8a6&height=190&section=header&text=Fillip%20A%20Nazario&fontColor=e6edf3&fontSize=44&desc=Dev%20full%20stack%20em%20formação%20·%20do%200%20ao%20emprego&descAlignY=64&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:14b8a6&height=190&section=header&text=Fillip%20A%20Nazario&fontColor=e6edf3&fontSize=44&desc=Full%20stack%20·%20Automação%20computacional&descAlignY=64&descSize=18" width="100%"/>
 </div>
 
 ## 🖐️ Olá, eu sou o Fillip
 
-🖥️ **Dev full stack em formação** — JavaScript/TypeScript, Node, Express, React e PostgreSQL.
+Desenvolvedor com foco em **aplicações web full stack** e **automação computacional**.
 
-🔄 Em **transição de carreira para TI**, documentando tudo em público no [**do-0-ao-emprego**](https://github.com/Fillip14/do-0-ao-emprego): estudo diário, devlog com erros e aprendizados, e projetos reais.
+🌐 No web, construo do banco à interface: **Node.js, Express, Prisma e PostgreSQL** no back-end, **React e TypeScript** no front, com autenticação JWT, controle de acesso por perfil e testes automatizados.
 
-🎯 **Aprendo em público:** erro em público, corrijo em público. O código conta a história.
+🐍 Em **Python** construo automações/sistemas utilizando OpenCV, lógicas para decisões, simulação de teclado/mouse, apps que precisam de visão computacional e muito mais.
 
-## 🧰 Stack
+🎓 Cursando Engenharia de Software na UNINTER. Aberto a oportunidades como **desenvolvedor júnior, trainee ou estagiário**.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+## 🚀 Principais projetos pessoais
 
-## 🎯 Focando agora
+### [Reporte Aqui](https://github.com/Fillip14/reporte-aqui) · `React` `TypeScript` `Node.js` `PostgreSQL`
+Plataforma full stack em monorepo para registro e resolução de problemas urbanos.
 
-> **Etapas 0 a 3 concluídas** — fundamentos, JavaScript, back-end (Node, Express, TypeScript, PostgreSQL) e front-end (React), com API e app publicados. Próxima parada: **Etapa 4**, o capstone — um "reporte-aqui" full stack reconstruído do zero, com auth, deploy e CI.
+### Automação desktop com visão computacional · `Python` `OpenCV` `PyQt` *(repositório privado)*
+Aplicação autoral mantida por **4 anos** e inúmeros commits. Leitura de tela, multithread, egine e comunicação via websocket.
 
-## 🗺️ Roadmap — do 0 ao emprego
-
-```text
-✅  Etapa 0 · Rigor e Git
-✅  Etapa 1 · JavaScript sólido + fundamentos web
-✅  Etapa 2 · Back-end: Node, Express, TypeScript, banco e mais
-✅  Etapa 3 · Front-end: React
-⬜  Etapa 4 · Capstone: o "reporte-aqui" concluído   ← próxima
-⬜  Etapa 5 · Portfólio e busca por vaga
-```
-
-## ⚡ Destaques
-
-<div align="center">
-<img height="165em" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Fillip14&repo=do-0-ao-emprego&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&icon_color=2dd4bf"/>
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Fillip14&hide_border=true&background=0d1117&stroke=30363d&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf&sideLabels=c9d1d9&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e&titleColor=2dd4bf"/>
-</div>
-
-## 📫 Contato
-
-<div>
+### Roteirizador de entregas · `React Native`
+App mobile que recebe uma planilha de endereços e devolve a rota organizada, com parsing de dados tabulares e tratamento de entradas inconsistentes.
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=anfillip&color=0A66C2&style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/anfillip)
 [![E-mail](https://img.shields.io/static/v1?label=E-mail&message=fillip.apol@gmail.com&color=EA4335&style=flat-square&logo=gmail&logoColor=white)](mailto:fillip.apol@gmail.com)
