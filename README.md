@@ -22,7 +22,7 @@ Plataforma full stack em monorepo para registro e resolução de problemas urban
 ### Automação desktop com visão computacional · `Python` `OpenCV` `PyQt` *(repositório privado)*
 Aplicação autoral mantida por **4 anos** e inúmeros commits. Leitura de tela, multithread, egine e comunicação via websocket.
 
-### Roteirizador de entregas · `React Native`
+### [Roteirizador de entregas](https://github.com/Fillip14/delivery-assistant) · `React Native`
 App mobile que recebe uma planilha de endereços e devolve a rota organizada, com parsing de dados tabulares e tratamento de entradas inconsistentes.
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=anfillip&color=0A66C2&style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/anfillip)
